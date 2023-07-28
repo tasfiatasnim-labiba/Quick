@@ -66,24 +66,23 @@ float: right;
 }
 .b_h1{
     margin: 0;
-    padding: 0 20%;
+    padding: 0 10%;
     font-size: 50px;
     font-weight: 700;
     line-height: 80px;
 }
 .b_h1 span{
-    text-align: center;
     color: #008aff;
 }
 .b_p{
-    margin: 10px 30px;
-    padding: 0 70px;
+    margin: 10px 5px;
+    padding: 0 25px;
     line-height: 25px;
     letter-spacing: 1px;
 }
 .b_img{
     margin: 0 auto;
-    width: 60%;
+    width: 70%;
 }
 .b_img img{
     width: 100%;
@@ -94,10 +93,9 @@ float: right;
 .success{
     padding: 30px 0;
 }
-.container2_c2{
+.c2{
     overflow: hidden;
     margin: 3% auto;
-    margin-top: 5%;
     width: 90%;
     box-sizing: border-box;
 }
@@ -177,7 +175,7 @@ float: right;
 .ss_p{
     margin: 0;
     line-height: 25px;
-    letter-spacing: .9px;
+    letter-spacing: .85px;
 }
 /*service ends*/
 
